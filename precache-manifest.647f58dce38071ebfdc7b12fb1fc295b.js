@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcadb964b6b40d63c70e1f3f989548e6",
+    "revision": "f9b45acc70d2b194d0d51243660564eb",
     "url": "/BookMaps/index.html"
   },
   {
-    "revision": "0c7c1165385371853888",
+    "revision": "84ea63af617b8902c5af",
     "url": "/BookMaps/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BookMaps/static/js/2.b3abb0a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c7c1165385371853888",
-    "url": "/BookMaps/static/js/main.5b160aa5.chunk.js"
+    "revision": "84ea63af617b8902c5af",
+    "url": "/BookMaps/static/js/main.d9c709a5.chunk.js"
   },
   {
     "revision": "139b76bd40d666635ff4",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BookMaps/static/css/main.5f361e03.chunk.css",
-    "main.js": "/BookMaps/static/js/main.5b160aa5.chunk.js",
-    "main.js.map": "/BookMaps/static/js/main.5b160aa5.chunk.js.map",
+    "main.js": "/BookMaps/static/js/main.d9c709a5.chunk.js",
+    "main.js.map": "/BookMaps/static/js/main.d9c709a5.chunk.js.map",
     "runtime-main.js": "/BookMaps/static/js/runtime-main.66e8e4fe.js",
     "runtime-main.js.map": "/BookMaps/static/js/runtime-main.66e8e4fe.js.map",
     "static/js/2.b3abb0a2.chunk.js": "/BookMaps/static/js/2.b3abb0a2.chunk.js",
     "static/js/2.b3abb0a2.chunk.js.map": "/BookMaps/static/js/2.b3abb0a2.chunk.js.map",
     "index.html": "/BookMaps/index.html",
-    "precache-manifest.c8ded417cf93acdb437b77414ca959ca.js": "/BookMaps/precache-manifest.c8ded417cf93acdb437b77414ca959ca.js",
+    "precache-manifest.647f58dce38071ebfdc7b12fb1fc295b.js": "/BookMaps/precache-manifest.647f58dce38071ebfdc7b12fb1fc295b.js",
     "service-worker.js": "/BookMaps/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/BookMaps/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.b3abb0a2.chunk.js.LICENSE.txt": "/BookMaps/static/js/2.b3abb0a2.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.66e8e4fe.js",
     "static/js/2.b3abb0a2.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.5b160aa5.chunk.js"
+    "static/js/main.d9c709a5.chunk.js"
   ]
 }
