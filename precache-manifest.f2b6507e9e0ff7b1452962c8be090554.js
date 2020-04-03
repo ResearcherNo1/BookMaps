@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7f84c3ca7288a8ef18864ae270d3c78",
+    "revision": "ff24b21e5f1520b7a6514b96ba2f1bf5",
     "url": "/BookMaps/index.html"
   },
   {
-    "revision": "4bbf273057d59eea8afe",
+    "revision": "7dfe8247f9da32f95411",
     "url": "/BookMaps/static/css/main.68734a14.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BookMaps/static/js/2.b3abb0a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4bbf273057d59eea8afe",
-    "url": "/BookMaps/static/js/main.03ef0a4b.chunk.js"
+    "revision": "7dfe8247f9da32f95411",
+    "url": "/BookMaps/static/js/main.035792d1.chunk.js"
   },
   {
     "revision": "139b76bd40d666635ff4",
     "url": "/BookMaps/static/js/runtime-main.66e8e4fe.js"
   },
   {
-    "revision": "ce321bb9cf443eae9854b01b7718b044",
-    "url": "/BookMaps/static/media/logo.ce321bb9.svg"
+    "revision": "b116381e1398d8ff75f3d6a128da0c82",
+    "url": "/BookMaps/static/media/logo.b116381e.svg"
   }
 ]);
