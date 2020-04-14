@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://ResearcherNo1.github.io/BookMaps/",
-  "dependencies": {
+  "peerDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "@vkontakte/vkui": "^3.5.7",
+    "@vkontakte/icons" : "",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
@@ -33,6 +35,11 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "@vkontakte/icons": "^1.20.1",
+    "@vkontakte/vkui": "^3.5.7",
+    "@vkontakte/vk-bridge": "^2.1.6",
+    "cross-env": "^7.0.2",
+    "gh-pages": "^2.2.0",
+    "typescript": "^3.8.3"
   }
 }
