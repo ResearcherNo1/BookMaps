@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/BookMaps/static/css/main.8a9c0315.chunk.css",
-    "main.js": "/BookMaps/static/js/main.8693b2e5.chunk.js",
-    "main.js.map": "/BookMaps/static/js/main.8693b2e5.chunk.js.map",
+    "main.js": "/BookMaps/static/js/main.e7696b31.chunk.js",
+    "main.js.map": "/BookMaps/static/js/main.e7696b31.chunk.js.map",
     "runtime-main.js": "/BookMaps/static/js/runtime-main.bd819692.js",
     "runtime-main.js.map": "/BookMaps/static/js/runtime-main.bd819692.js.map",
-    "static/js/2.8e7d9cab.chunk.js": "/BookMaps/static/js/2.8e7d9cab.chunk.js",
-    "static/js/2.8e7d9cab.chunk.js.map": "/BookMaps/static/js/2.8e7d9cab.chunk.js.map",
+    "static/js/2.cf533b1b.chunk.js": "/BookMaps/static/js/2.cf533b1b.chunk.js",
+    "static/js/2.cf533b1b.chunk.js.map": "/BookMaps/static/js/2.cf533b1b.chunk.js.map",
     "index.html": "/BookMaps/index.html",
-    "precache-manifest.d47e5a37ad0f183216496da47c6f80e0.js": "/BookMaps/precache-manifest.d47e5a37ad0f183216496da47c6f80e0.js",
+    "precache-manifest.f56e416efef4423c5dfa6abc0f6870ad.js": "/BookMaps/precache-manifest.f56e416efef4423c5dfa6abc0f6870ad.js",
     "service-worker.js": "/BookMaps/service-worker.js",
     "static/css/main.8a9c0315.chunk.css.map": "/BookMaps/static/css/main.8a9c0315.chunk.css.map",
-    "static/js/2.8e7d9cab.chunk.js.LICENSE.txt": "/BookMaps/static/js/2.8e7d9cab.chunk.js.LICENSE.txt"
+    "static/js/2.cf533b1b.chunk.js.LICENSE.txt": "/BookMaps/static/js/2.cf533b1b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd819692.js",
-    "static/js/2.8e7d9cab.chunk.js",
+    "static/js/2.cf533b1b.chunk.js",
     "static/css/main.8a9c0315.chunk.css",
-    "static/js/main.8693b2e5.chunk.js"
+    "static/js/main.e7696b31.chunk.js"
   ]
 }
